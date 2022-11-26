@@ -1,0 +1,14 @@
+package test1.codingTest1;
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		minus(5, -5);
+	}
+	static void minus(int a,int b) {
+		int result;
+		result =(a<0 && b<0 ? a+b : a-b );
+		
+		System.out.println("차이값은 " + result + " 입니다.");
+	}
+}
