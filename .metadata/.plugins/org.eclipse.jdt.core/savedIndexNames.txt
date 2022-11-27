@@ -1,4 +1,4 @@
-INDEX VERSION 1.131+C:\Users\dksqu\OneDrive\바탕 화면\안병호\java_coding\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+C:\java_coding\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
 2596693323.index
 552011298.index
