@@ -20,15 +20,12 @@ public class Test2 {
 		if(x < y) {
 			
 			while(x <= y) {
-				System.out.print(x);
-				add = x + add;
+				System.out.print(x+" ");
 				x++;
 			}	
-			System.out.println(add);
 		}else {
 			while(x >= y) {
-				add = y + add;
-				System.out.println(add);
+				System.out.print(y+" ");
 				y++;
 			}
 		}

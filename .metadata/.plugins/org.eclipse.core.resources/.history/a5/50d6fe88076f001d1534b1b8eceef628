@@ -1,0 +1,21 @@
+package test1.codingTest3;
+
+public class Test4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		for(int i = 1; i <1000                                                                                                ; i++) {
+			int x =  (int)(Math.random() * 100);
+			System.out.println(x);
+			if(x ==100) {
+				
+				break;
+			}
+			
+			
+		}
+	}
+
+}
